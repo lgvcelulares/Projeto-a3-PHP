@@ -34,14 +34,6 @@
                 <li>
                     <a href="educacao.html" class="nav-link">Educação</a>
                 </li>
-                <li>
-                    <div id="pesquisa-materia">
-                        <form class="d-flex" id="search-form">
-                            <input type="text" placeholder="Buque por uma matéria ou topico" class="" id="inp_pesquisa" aria-label="Search">
-                            <button class="btn btn-danger" id="btnPesquisar" type="submit">Pesquisar</button>
-                        </form>
-                    </div>
-                </li>
             </ul>
         </div>
     </nav>
